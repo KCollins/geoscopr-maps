@@ -1,7 +1,9 @@
 # geoscopr-maps
 Maps for the GEOSCOPR (Geospace and Exploration with Scientific COllaboration in Polar Regions) report for the fifth International Polar Year (IPY5).
+
 ![image](https://github.com/user-attachments/assets/f060807b-ef8c-4dc9-963e-0e6f6e1d9141)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KCollins/geoscopr-maps/HEAD)
 
 ## Map 1: Conjugate Coastline Map (Fig 1.2)
 A magnetic projection of the Antarctic coastline to northern hemisphere for each International Polar Year to date, calculated using AACGMv2. (2024 is used to indicate future investigations, as field projections for 2032 are not yet available at the time of writing.) over the last 100 years, the projection of the coastline moves as Earth’s internally generated magnetic field changes. At present, the space environment over the Antarctic peninsula is magnetically connected to the northeastern USA and eastern Canada, presenting opportunities for coordinated citizen science experiments during IPY5.
