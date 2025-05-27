@@ -12,6 +12,8 @@ A magnetic projection of the Antarctic coastline to northern hemisphere for each
 
 ## Map 2: Magnetic Graticules
 Graticules at ±65° and ±80° magnetic latitude are superimposed on the polar regions, denoting the general area of the auroral oval. While most of the relevant area in the Arctic is covered by the Arctic Ocean and therefore unsuitable for instrument deployments, the overlap of the southern magnetic pole with the Antarctic continent enables high-latitude measurements on land.
+Coastline shapefile: R. J. Hijmans, M. o. V. Z. University of California, Berkeley, Boundary, Antarctica, 2015 (2015).
+URL http://purl.stanford.edu/yk702xd7587
 ![image](https://github.com/user-attachments/assets/d6676f8d-ce9a-4ba0-b880-27c50d9a03e9)
 
 
