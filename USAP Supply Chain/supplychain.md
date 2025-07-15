@@ -6,8 +6,22 @@ From this document: https://nsf-gov-resources.nsf.gov/files/antarctica-07232012.
 Here's a flowchart in mermaid:
 ```mermaid
 flowchart TB
-    c1-->a2
-    subgraph ide1 [one]
-    a1-->a2
+    subgraph ide1 [Antarctica]
+    McMurdo<-->FieldA["Field A"]
+    McMurdo<-->SouthPole["South Pole"]
+    FieldA<-->FieldC["Field C"]
+    SouthPole<-->FieldB["Field B"]
+    Palmer
+    end
+    subgraph ide2 [North America]
+    Hueneme["Port Hueneme"]
+    end
+    subgraph ide3 [South America]
+    Palmer<-->PuntaArenas["Punta Arenas"]
+    PuntaArenas<-->Hueneme
+    end
+    subgraph ide4 [New Zealand]
+    NZ["Christchurch/Port Lyttleton"]<-->McMurdo
+    NZ<-->Hueneme
     end
 ```
